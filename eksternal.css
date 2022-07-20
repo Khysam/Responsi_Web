@@ -1,0 +1,15 @@
+body {
+		font-family: Times New Roman, sans-serif;
+		color: black; background: grey; 
+		}
+		h1{
+			font-size: 200%; 
+			color: red;
+		}
+		h2{
+			font-size: 150%; 
+			color: black;
+		}
+		h3{ 
+			font-size: 100%;
+			color: yellow;
